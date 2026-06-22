@@ -67,7 +67,7 @@ trigger:
   path: /api/trigger/my-pipeline
 ```
 
-See the [[api-reference/scheduler|Scheduler API]] for programmatic scheduling.
+See the [[API Reference/scheduler|Scheduler API]] for programmatic scheduling.
 
 ## Pipeline dependencies
 

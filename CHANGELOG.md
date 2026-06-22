@@ -17,7 +17,7 @@ All notable changes to Acme are documented here.
 ### Changed
 
 - Improved error messages for connection failures. Errors now include the connector name and a suggested fix.
-- The [[api-reference/scheduler|Scheduler API]] now returns `next_run_at` in ISO 8601 format.
+- The [[API Reference/scheduler|Scheduler API]] now returns `next_run_at` in ISO 8601 format.
 
 ### Fixed
 

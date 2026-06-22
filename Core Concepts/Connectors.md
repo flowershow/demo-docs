@@ -109,7 +109,7 @@ sources:
 ```
 
 > [!note]
-> Custom connectors have full access to the Acme SDK. See the [[api-reference/connector|Connector API]] for the complete interface.
+> Custom connectors have full access to the Acme SDK. See the [[API Reference/connector|Connector API]] for the complete interface.
 
 ## Health checks
 
@@ -132,5 +132,5 @@ acme connectors status
 ## Related
 
 - [[concepts/architecture|Architecture]] — how connectors fit into the pipeline engine
-- [[api-reference/connector|Connector API]] — full API reference for building connectors
+- [[API Reference/connector|Connector API]] — full API reference for building connectors
 - [[guides/connecting-databases|Connecting Databases Guide]] — step-by-step setup for common databases

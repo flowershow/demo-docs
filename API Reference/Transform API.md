@@ -1,6 +1,7 @@
 ---
 description: API reference for registering, testing, and managing transform functions programmatically, including the transform execution model and SDK usage.
 ---
+
 # Transform API
 
 The Transform API lets you register, manage, and inspect transform functions programmatically.
@@ -139,4 +140,4 @@ graph TD
 
 - [[concepts/transforms|Transform Concepts]] — built-in transforms reference
 - [[guides/custom-transforms|Writing Custom Transforms]] — Python transform guide
-- [[api-reference/pipeline|Pipeline API]] — using transforms in pipelines
+- [[API Reference/pipeline|Pipeline API]] — using transforms in pipelines

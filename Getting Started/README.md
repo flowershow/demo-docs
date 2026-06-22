@@ -19,10 +19,10 @@ graph TD
 
 ## Steps
 
-1. **[[getting-started/installation|Installation]]** — Install the CLI and set up your environment
-2. **[[getting-started/quickstart|Quickstart]]** — Build a working pipeline in 5 minutes
-3. **[[getting-started/project-structure|Project Structure]]** — Understand how a Acme project is organized
-4. **[[getting-started/first-pipeline|Your First Pipeline]]** — A deeper walkthrough of pipeline concepts
+1. **[[Getting Started/installation|Installation]]** — Install the CLI and set up your environment
+2. **[[Getting Started/quickstart|Quickstart]]** — Build a working pipeline in 5 minutes
+3. **[[Getting Started/project-structure|Project Structure]]** — Understand how a Acme project is organized
+4. **[[Getting Started/first-pipeline|Your First Pipeline]]** — A deeper walkthrough of pipeline concepts
 
 > [!tip] Already familiar with ETL tools?
 > Skip ahead to the [[concepts/architecture|Architecture]] overview for a high-level comparison.

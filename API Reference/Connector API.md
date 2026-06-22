@@ -1,6 +1,7 @@
 ---
 description: API reference for managing source and destination connectors, including endpoints for listing, testing connections, and building custom connectors.
 ---
+
 # Connector API
 
 The Connector API provides programmatic access to manage source and destination connectors — test connections, check health, and register custom connectors.
@@ -186,4 +187,4 @@ class MyDestination(DestinationConnector):
 
 - [[concepts/connectors|Connector Concepts]] — available connectors and configuration
 - [[guides/connecting-databases|Connecting Databases]] — database setup guide
-- [[api-reference/pipeline|Pipeline API]] — using connectors in pipelines
+- [[API Reference/pipeline|Pipeline API]] — using connectors in pipelines

@@ -1,6 +1,7 @@
 ---
 description: REST API reference for creating, updating, triggering, and inspecting pipeline runs, including endpoints, parameters, and SDK usage examples.
 ---
+
 # Pipeline API
 
 The Pipeline API lets you manage pipeline definitions, trigger runs, and inspect results programmatically.
@@ -183,6 +184,6 @@ runs = client.pipelines.runs("user-analytics", limit=10)
 
 ## Related
 
-- [[api-reference/client|Client API]] — initialization and authentication
-- [[api-reference/scheduler|Scheduler API]] — schedule management
-- [[api-reference/events|Events API]] — pipeline event subscriptions
+- [[API Reference/client|Client API]] — initialization and authentication
+- [[API Reference/scheduler|Scheduler API]] — schedule management
+- [[API Reference/events|Events API]] — pipeline event subscriptions

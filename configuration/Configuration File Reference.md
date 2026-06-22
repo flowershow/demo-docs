@@ -1,6 +1,7 @@
 ---
 description: Complete reference for the acme.yml configuration file, documenting every available setting for sources, transforms, destinations, scheduling, and more.
 ---
+
 # Configuration File Reference
 
 The `acme.yml` file is the primary configuration file for a Acme project. This page documents every available setting.
@@ -157,5 +158,5 @@ acme validate
 ## Related
 
 - [[configuration/environment-variables|Environment Variables]] — secret management
-- [[getting-started/project-structure|Project Structure]] — file organization
+- [[Getting Started/project-structure|Project Structure]] — file organization
 - [[concepts/pipelines|Pipelines]] — pipeline configuration concepts

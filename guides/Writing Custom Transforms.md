@@ -174,5 +174,5 @@ pytest tests/test_transforms.py -v
 ## Related
 
 - [[concepts/transforms|Transform Concepts]] — built-in transform reference
-- [[api-reference/transform|Transform API]] — SDK reference
+- [[API Reference/transform|Transform API]] — SDK reference
 - [[guides/testing-pipelines|Testing Pipelines]] — integration testing

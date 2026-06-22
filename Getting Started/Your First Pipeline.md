@@ -8,7 +8,7 @@ This guide walks you through building a real-world pipeline that reads from a Po
 
 > [!info] Prerequisites
 >
-> - Acme CLI installed ([[getting-started/installation|Installation]])
+> - Acme CLI installed ([[Getting Started/installation|Installation]])
 > - A PostgreSQL database with sample data
 > - A BigQuery project (or use the local JSON destination for testing)
 

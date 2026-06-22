@@ -31,8 +31,8 @@ graph TB
 | **Pipeline**  | A complete data workflow: extract → transform → load      | [[concepts/pipelines\|Pipelines]]          |
 | **Connector** | A source or destination adapter (PostgreSQL, S3, etc.)    | [[concepts/connectors\|Connectors]]        |
 | **Transform** | A data manipulation step (filter, map, aggregate, custom) | [[concepts/transforms\|Transforms]]        |
-| **Scheduler** | Controls when and how often pipelines run                 | [[api-reference/scheduler\|Scheduler API]] |
-| **Event**     | Metadata emitted during pipeline execution                | [[api-reference/events\|Events API]]       |
+| **Scheduler** | Controls when and how often pipelines run                 | [[API Reference/scheduler\|Scheduler API]] |
+| **Event**     | Metadata emitted during pipeline execution                | [[API Reference/events\|Events API]]       |
 
 ## Design principles
 

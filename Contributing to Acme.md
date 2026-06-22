@@ -1,6 +1,7 @@
 ---
 description: Guidelines for contributing to Acme, including development setup, project structure, and how to submit pull requests.
 ---
+
 # Contributing to Acme
 
 We welcome contributions of all kinds — bug fixes, new connectors, documentation improvements, and feature ideas.
@@ -65,7 +66,7 @@ acme/
 4. Submit your PR with a clear description
 
 > [!tip]
-> See the [[getting-started/project-structure|Project Structure]] page for a deeper dive into how the codebase is organized.
+> See the [[Getting Started/project-structure|Project Structure]] page for a deeper dive into how the codebase is organized.
 
 ## Code of conduct
 

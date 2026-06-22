@@ -95,5 +95,5 @@ SLACK_WEBHOOK=https://hooks.slack.com/services/...
 
 ## Next steps
 
-- [[getting-started/first-pipeline|Your First Pipeline]] — a hands-on tutorial
+- [[Getting Started/first-pipeline|Your First Pipeline]] — a hands-on tutorial
 - [[configuration/environment-variables|Environment Variables]] — managing secrets and configuration

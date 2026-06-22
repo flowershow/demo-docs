@@ -1,6 +1,7 @@
 ---
 description: Overview of the Acme REST API, including authentication, response formats, rate limits, and links to all API module references.
 ---
+
 # API Reference
 
 Acme provides a RESTful API for managing pipelines, triggering runs, and monitoring status programmatically.
@@ -24,12 +25,12 @@ curl -H "Authorization: Bearer df_key_abc123..." \
 
 | Module        | Description                               | Reference                              |
 | ------------- | ----------------------------------------- | -------------------------------------- |
-| **Client**    | SDK initialization and configuration      | [[api-reference/client\|Client]]       |
-| **Pipeline**  | Create, update, run, and manage pipelines | [[api-reference/pipeline\|Pipeline]]   |
-| **Connector** | Manage source and destination connectors  | [[api-reference/connector\|Connector]] |
-| **Transform** | Register and manage transform functions   | [[api-reference/transform\|Transform]] |
-| **Scheduler** | Schedule and trigger pipeline runs        | [[api-reference/scheduler\|Scheduler]] |
-| **Events**    | Subscribe to pipeline lifecycle events    | [[api-reference/events\|Events]]       |
+| **Client**    | SDK initialization and configuration      | [[API Reference/client\|Client]]       |
+| **Pipeline**  | Create, update, run, and manage pipelines | [[API Reference/pipeline\|Pipeline]]   |
+| **Connector** | Manage source and destination connectors  | [[API Reference/connector\|Connector]] |
+| **Transform** | Register and manage transform functions   | [[API Reference/transform\|Transform]] |
+| **Scheduler** | Schedule and trigger pipeline runs        | [[API Reference/scheduler\|Scheduler]] |
+| **Events**    | Subscribe to pipeline lifecycle events    | [[API Reference/events\|Events]]       |
 
 ## Response format
 
@@ -95,4 +96,4 @@ npm install @acme/sdk
 go get github.com/acme/acme-go
 ```
 
-See [[api-reference/client|Client]] for SDK usage examples.
+See [[API Reference/client|Client]] for SDK usage examples.

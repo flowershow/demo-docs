@@ -155,10 +155,10 @@ transforms:
 ```
 
 > [!example] Real-world example
-> See [[getting-started/first-pipeline|Your First Pipeline]] for a complete example with custom transforms.
+> See [[Getting Started/first-pipeline|Your First Pipeline]] for a complete example with custom transforms.
 
 ## Related
 
 - [[concepts/pipelines|Pipelines]] — how transforms fit into the pipeline lifecycle
-- [[api-reference/transform|Transform API]] — programmatic transform creation
+- [[API Reference/transform|Transform API]] — programmatic transform creation
 - [[guides/testing-pipelines|Testing Pipelines]] — test transforms with fixture data

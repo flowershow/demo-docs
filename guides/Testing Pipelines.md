@@ -118,6 +118,6 @@ acme test tests/test_user_analytics.yml --snapshot
 
 ## Related
 
-- [[getting-started/first-pipeline|Your First Pipeline]] — build a pipeline to test
+- [[Getting Started/first-pipeline|Your First Pipeline]] — build a pipeline to test
 - [[guides/deployment|Deployment]] — CI/CD integration
 - [[guides/error-handling|Error Handling]] — handling unexpected data

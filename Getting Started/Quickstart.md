@@ -8,7 +8,7 @@ Build and run your first Acme pipeline in under 5 minutes.
 
 ## Prerequisites
 
-- Acme CLI installed ([[getting-started/installation|Installation Guide]])
+- Acme CLI installed ([[Getting Started/installation|Installation Guide]])
 - A running PostgreSQL database (or use our demo database)
 
 ## Step 1: Create a new project
@@ -116,6 +116,6 @@ Pipeline completed in 0.3s
 
 ## What's next?
 
-- [[getting-started/project-structure|Project Structure]] — understand the files in a Acme project
-- [[getting-started/first-pipeline|Your First Pipeline]] — a more detailed walkthrough with a real database
+- [[Getting Started/project-structure|Project Structure]] — understand the files in a Acme project
+- [[Getting Started/first-pipeline|Your First Pipeline]] — a more detailed walkthrough with a real database
 - [[concepts/pipelines|Pipelines]] — learn how pipelines work under the hood

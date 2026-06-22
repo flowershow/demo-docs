@@ -72,4 +72,4 @@ pip install --upgrade acme-cli
 
 ## Next steps
 
-Once installed, head to the [[getting-started/quickstart|Quickstart]] to build your first pipeline.
+Once installed, head to the [[Getting Started/quickstart|Quickstart]] to build your first pipeline.
