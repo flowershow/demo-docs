@@ -1,6 +1,7 @@
 ---
 description: How to manage secrets and per-environment settings using environment variables, .env files, and CI/CD integration in Acme.
 ---
+
 # Environment Variables
 
 Environment variables are the recommended way to manage secrets (database passwords, API keys) and per-environment settings in Acme.
@@ -158,6 +159,6 @@ docker run --env-file .env.production acme/acme:latest
 
 ## Related
 
-- [[configuration/config-file|Configuration File]] — full `acme.yml` reference
-- [[guides/deployment|Deployment]] — environment setup for production
-- [[guides/authentication|Authentication]] — API key management
+- [[Configuration/Configuration File Reference|Configuration File]] — full `acme.yml` reference
+- [[Guides/Deployment|Deployment]] — environment setup for production
+- [[Guides/Authentication|Authentication]] — API key management

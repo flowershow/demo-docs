@@ -126,6 +126,6 @@ except AcmeError as e:
 
 ## Related
 
-- [[API Reference/pipeline|Pipeline API]] — pipeline operations
-- [[API Reference/events|Events API]] — subscribe to pipeline events
-- [[guides/authentication|Authentication]] — auth setup
+- [[API Reference/Pipeline API|Pipeline API]] — pipeline operations
+- [[API Reference/Events API|Events API]] — subscribe to pipeline events
+- [[Guides/Authentication|Authentication]] — auth setup

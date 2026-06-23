@@ -184,6 +184,6 @@ runs = client.pipelines.runs("user-analytics", limit=10)
 
 ## Related
 
-- [[API Reference/client|Client API]] — initialization and authentication
-- [[API Reference/scheduler|Scheduler API]] — schedule management
-- [[API Reference/events|Events API]] — pipeline event subscriptions
+- [[API Reference/Client API|Client API]] — initialization and authentication
+- [[API Reference/Scheduler API|Scheduler API]] — schedule management
+- [[API Reference/Events API|Events API]] — pipeline event subscriptions

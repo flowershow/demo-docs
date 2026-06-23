@@ -162,7 +162,7 @@ pytest tests/test_transforms.py -v
 ```
 
 > [!tip] Test-driven transforms
-> Write your tests before your transforms. This makes it much easier to handle edge cases and gives you confidence when refactoring. See [[guides/testing-pipelines|Testing Pipelines]] for integration tests.
+> Write your tests before your transforms. This makes it much easier to handle edge cases and gives you confidence when refactoring. See [[Guides/Testing Pipelines|Testing Pipelines]] for integration tests.
 
 ## Performance tips
 
@@ -173,6 +173,6 @@ pytest tests/test_transforms.py -v
 
 ## Related
 
-- [[concepts/transforms|Transform Concepts]] — built-in transform reference
-- [[API Reference/transform|Transform API]] — SDK reference
-- [[guides/testing-pipelines|Testing Pipelines]] — integration testing
+- [[Core Concepts/Transforms|Transform Concepts]] — built-in transform reference
+- [[API Reference/Transform API|Transform API]] — SDK reference
+- [[Guides/Testing Pipelines|Testing Pipelines]] — integration testing

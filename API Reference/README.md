@@ -14,7 +14,7 @@ https://your-acme-instance.com/api/v1
 
 ## Authentication
 
-All API requests require authentication. See [[guides/authentication|Authentication]] for setup.
+All API requests require authentication. See [[Guides/Authentication|Authentication]] for setup.
 
 ```bash
 curl -H "Authorization: Bearer df_key_abc123..." \
@@ -25,12 +25,12 @@ curl -H "Authorization: Bearer df_key_abc123..." \
 
 | Module        | Description                               | Reference                              |
 | ------------- | ----------------------------------------- | -------------------------------------- |
-| **Client**    | SDK initialization and configuration      | [[API Reference/client\|Client]]       |
-| **Pipeline**  | Create, update, run, and manage pipelines | [[API Reference/pipeline\|Pipeline]]   |
-| **Connector** | Manage source and destination connectors  | [[API Reference/connector\|Connector]] |
-| **Transform** | Register and manage transform functions   | [[API Reference/transform\|Transform]] |
-| **Scheduler** | Schedule and trigger pipeline runs        | [[API Reference/scheduler\|Scheduler]] |
-| **Events**    | Subscribe to pipeline lifecycle events    | [[API Reference/events\|Events]]       |
+| **Client**    | SDK initialization and configuration      | [[API Reference/Client API\|Client]]       |
+| **Pipeline**  | Create, update, run, and manage pipelines | [[API Reference/Pipeline API\|Pipeline]]   |
+| **Connector** | Manage source and destination connectors  | [[API Reference/Connector API\|Connector]] |
+| **Transform** | Register and manage transform functions   | [[API Reference/Transform API\|Transform]] |
+| **Scheduler** | Schedule and trigger pipeline runs        | [[API Reference/Scheduler API\|Scheduler]] |
+| **Events**    | Subscribe to pipeline lifecycle events    | [[API Reference/Events API\|Events]]       |
 
 ## Response format
 
@@ -96,4 +96,4 @@ npm install @acme/sdk
 go get github.com/acme/acme-go
 ```
 
-See [[API Reference/client|Client]] for SDK usage examples.
+See [[API Reference/Client API|Client]] for SDK usage examples.

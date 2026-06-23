@@ -138,6 +138,6 @@ graph TD
 
 ## Related
 
-- [[concepts/transforms|Transform Concepts]] — built-in transforms reference
-- [[guides/custom-transforms|Writing Custom Transforms]] — Python transform guide
-- [[API Reference/pipeline|Pipeline API]] — using transforms in pipelines
+- [[Core Concepts/Transforms|Transform Concepts]] — built-in transforms reference
+- [[Guides/Writing Custom Transforms|Writing Custom Transforms]] — Python transform guide
+- [[API Reference/Pipeline API|Pipeline API]] — using transforms in pipelines

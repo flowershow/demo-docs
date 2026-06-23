@@ -173,10 +173,10 @@ acme run --env staging
 acme run --env production
 ```
 
-Each environment loads from `.env.{environment}`. See [[configuration/environment-variables|Environment Variables]] for details.
+Each environment loads from `.env.{environment}`. See [[Configuration/Environment Variables|Environment Variables]] for details.
 
 ## Related
 
-- [[guides/monitoring|Monitoring]] — monitor deployed pipelines
-- [[guides/authentication|Authentication]] — secure your API in production
-- [[configuration/config-file|Configuration]] — production configuration settings
+- [[Guides/Monitoring|Monitoring]] — monitor deployed pipelines
+- [[Guides/Authentication|Authentication]] — secure your API in production
+- [[Configuration/Configuration File Reference|Configuration]] — production configuration settings

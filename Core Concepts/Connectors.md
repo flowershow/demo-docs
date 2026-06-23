@@ -53,7 +53,7 @@ sources:
 ### Connection strings
 
 > [!tip] Use environment variables for secrets
-> Never hardcode credentials in your pipeline files. Use `${VARIABLE_NAME}` to reference environment variables. See [[configuration/environment-variables|Environment Variables]].
+> Never hardcode credentials in your pipeline files. Use `${VARIABLE_NAME}` to reference environment variables. See [[Configuration/Environment Variables|Environment Variables]].
 
 ```yaml
 # PostgreSQL
@@ -109,7 +109,7 @@ sources:
 ```
 
 > [!note]
-> Custom connectors have full access to the Acme SDK. See the [[API Reference/connector|Connector API]] for the complete interface.
+> Custom connectors have full access to the Acme SDK. See the [[API Reference/Connector API|Connector API]] for the complete interface.
 
 ## Health checks
 
@@ -131,6 +131,6 @@ acme connectors status
 
 ## Related
 
-- [[concepts/architecture|Architecture]] — how connectors fit into the pipeline engine
-- [[API Reference/connector|Connector API]] — full API reference for building connectors
-- [[guides/connecting-databases|Connecting Databases Guide]] — step-by-step setup for common databases
+- [[Core Concepts/Architecture|Architecture]] — how connectors fit into the pipeline engine
+- [[API Reference/Connector API|Connector API]] — full API reference for building connectors
+- [[Guides/Connecting Databases|Connecting Databases Guide]] — step-by-step setup for common databases

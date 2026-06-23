@@ -127,7 +127,7 @@ Use it in your pipeline:
 ```
 
 > [!warning] Performance consideration
-> Custom Python transforms that make HTTP calls will significantly slow down your pipeline. Consider using batch transforms or caching results. See [[guides/error-handling|Error Handling]] for retry strategies.
+> Custom Python transforms that make HTTP calls will significantly slow down your pipeline. Consider using batch transforms or caching results. See [[Guides/Error Handling|Error Handling]] for retry strategies.
 
 ## Chaining transforms
 
@@ -155,10 +155,10 @@ transforms:
 ```
 
 > [!example] Real-world example
-> See [[Getting Started/first-pipeline|Your First Pipeline]] for a complete example with custom transforms.
+> See [[Getting Started/Your First Pipeline|Your First Pipeline]] for a complete example with custom transforms.
 
 ## Related
 
-- [[concepts/pipelines|Pipelines]] — how transforms fit into the pipeline lifecycle
-- [[API Reference/transform|Transform API]] — programmatic transform creation
-- [[guides/testing-pipelines|Testing Pipelines]] — test transforms with fixture data
+- [[Core Concepts/Pipelines|Pipelines]] — how transforms fit into the pipeline lifecycle
+- [[API Reference/Transform API|Transform API]] — programmatic transform creation
+- [[Guides/Testing Pipelines|Testing Pipelines]] — test transforms with fixture data

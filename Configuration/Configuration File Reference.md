@@ -157,6 +157,6 @@ acme validate
 
 ## Related
 
-- [[configuration/environment-variables|Environment Variables]] — secret management
-- [[Getting Started/project-structure|Project Structure]] — file organization
-- [[concepts/pipelines|Pipelines]] — pipeline configuration concepts
+- [[Configuration/Environment Variables|Environment Variables]] — secret management
+- [[Getting Started/Project Structure|Project Structure]] — file organization
+- [[Core Concepts/Pipelines|Pipelines]] — pipeline configuration concepts

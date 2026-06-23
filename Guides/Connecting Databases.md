@@ -71,7 +71,7 @@ sources:
 ```
 
 > [!note]
-> CDC requires PostgreSQL 10+ with `wal_level = logical`. See [[guides/real-time-streaming|Real-time Streaming]] for setup instructions.
+> CDC requires PostgreSQL 10+ with `wal_level = logical`. See [[Guides/Real-time Streaming|Real-time Streaming]] for setup instructions.
 
 ## MySQL
 
@@ -145,6 +145,6 @@ acme test-connection --type postgres --connection "${DATABASE_URL}"
 
 ## Related
 
-- [[concepts/connectors|Connectors]] — full list of available connectors
-- [[configuration/environment-variables|Environment Variables]] — secure credential management
-- [[guides/real-time-streaming|Real-time Streaming]] — CDC and streaming setup
+- [[Core Concepts/Connectors|Connectors]] — full list of available connectors
+- [[Configuration/Environment Variables|Environment Variables]] — secure credential management
+- [[Guides/Real-time Streaming|Real-time Streaming]] — CDC and streaming setup

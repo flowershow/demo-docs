@@ -67,7 +67,7 @@ trigger:
   path: /api/trigger/my-pipeline
 ```
 
-See the [[API Reference/scheduler|Scheduler API]] for programmatic scheduling.
+See the [[API Reference/Scheduler API|Scheduler API]] for programmatic scheduling.
 
 ## Pipeline dependencies
 
@@ -106,7 +106,7 @@ error_handling:
     path: ./errors/failed_rows.json
 ```
 
-See [[guides/error-handling|Error Handling Guide]] for detailed strategies.
+See [[Guides/Error Handling|Error Handling Guide]] for detailed strategies.
 
 ## Multiple destinations
 
@@ -127,6 +127,6 @@ Both destinations receive the same transformed data.
 
 ## Related
 
-- [[concepts/connectors|Connectors]] — available data sources and destinations
-- [[concepts/transforms|Transforms]] — data transformation options
-- [[guides/testing-pipelines|Testing Pipelines]] — validate before deploying
+- [[Core Concepts/Connectors|Connectors]] — available data sources and destinations
+- [[Core Concepts/Transforms|Transforms]] — data transformation options
+- [[Guides/Testing Pipelines|Testing Pipelines]] — validate before deploying

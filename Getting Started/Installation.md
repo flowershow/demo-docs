@@ -44,7 +44,7 @@ After installing, initialize your configuration:
 acme init
 ```
 
-This creates a `~/.acme/config.yml` file with default settings. See [[configuration/config-file|Configuration]] for all available options.
+This creates a `~/.acme/config.yml` file with default settings. See [[Configuration/Configuration File Reference|Configuration]] for all available options.
 
 ## Shell completions
 
@@ -68,8 +68,8 @@ pip install --upgrade acme-cli
 ```
 
 > [!note]
-> After upgrading, run `acme migrate up` to apply any database schema changes. See the [[changelog|Changelog]] for breaking changes.
+> After upgrading, run `acme migrate up` to apply any database schema changes. See the [[CHANGELOG|Changelog]] for breaking changes.
 
 ## Next steps
 
-Once installed, head to the [[Getting Started/quickstart|Quickstart]] to build your first pipeline.
+Once installed, head to the [[Getting Started/Quickstart|Quickstart]] to build your first pipeline.

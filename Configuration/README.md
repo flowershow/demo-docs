@@ -28,8 +28,8 @@ graph TD
 
 ## Guides
 
-- [[configuration/config-file|Configuration File Reference]] — complete `acme.yml` reference
-- [[configuration/environment-variables|Environment Variables]] — managing secrets and per-environment settings
+- [[Configuration/Configuration File Reference|Configuration File Reference]] — complete `acme.yml` reference
+- [[Configuration/Environment Variables|Environment Variables]] — managing secrets and per-environment settings
 
 > [!tip] Getting started?
 > For most projects, the defaults work well. Start with a minimal `acme.yml` and add settings as needed.

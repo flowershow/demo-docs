@@ -185,6 +185,6 @@ class MyDestination(DestinationConnector):
 
 ## Related
 
-- [[concepts/connectors|Connector Concepts]] — available connectors and configuration
-- [[guides/connecting-databases|Connecting Databases]] — database setup guide
-- [[API Reference/pipeline|Pipeline API]] — using connectors in pipelines
+- [[Core Concepts/Connectors|Connector Concepts]] — available connectors and configuration
+- [[Guides/Connecting Databases|Connecting Databases]] — database setup guide
+- [[API Reference/Pipeline API|Pipeline API]] — using connectors in pipelines

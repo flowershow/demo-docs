@@ -10,14 +10,14 @@ All notable changes to Acme are documented here.
 
 ### Added
 
-- **Real-time CDC support** for PostgreSQL sources. See [[guides/real-time-streaming|Real-time Streaming Guide]].
+- **Real-time CDC support** for PostgreSQL sources. See [[Guides/Real-time Streaming|Real-time Streaming Guide]].
 - New `webhook` destination type for pushing events to HTTP endpoints.
 - Pipeline-level environment variable overrides in `acme.yml`.
 
 ### Changed
 
 - Improved error messages for connection failures. Errors now include the connector name and a suggested fix.
-- The [[API Reference/scheduler|Scheduler API]] now returns `next_run_at` in ISO 8601 format.
+- The [[API Reference/Scheduler API|Scheduler API]] now returns `next_run_at` in ISO 8601 format.
 
 ### Fixed
 
@@ -33,9 +33,9 @@ All notable changes to Acme are documented here.
 
 ### Added
 
-- [[guides/authentication|OAuth 2.0 authentication]] for API access.
+- [[Guides/Authentication|OAuth 2.0 authentication]] for API access.
 - Support for Parquet file sources.
-- `acme test` command for [[guides/testing-pipelines|pipeline validation]].
+- `acme test` command for [[Guides/Testing Pipelines|pipeline validation]].
 
 ### Changed
 
@@ -53,7 +53,7 @@ All notable changes to Acme are documented here.
 
 ### Added
 
-- Custom [[concepts/transforms|transform functions]] in Python.
+- Custom [[Core Concepts/Transforms|transform functions]] in Python.
 - Pipeline dependency graphs with `depends_on`.
 - Slack notification channel for pipeline failures.
 
@@ -68,6 +68,6 @@ All notable changes to Acme are documented here.
 
 ### Added
 
-- Initial support for [[concepts/connectors|streaming connectors]] (Kafka, Redis Streams).
+- Initial support for [[Core Concepts/Connectors|streaming connectors]] (Kafka, Redis Streams).
 - Dark mode for the web dashboard.
 - Export pipeline runs as CSV.

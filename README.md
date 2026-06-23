@@ -7,7 +7,7 @@ description: The modern data pipeline platform for teams that move fast.
 **Acme** is an open-source data pipeline platform that makes it easy to build, test, and deploy data workflows. Connect any source, transform your data, and deliver it anywhere — all with simple configuration files.
 
 > [!note] New to Acme?
-> Start with the [[Getting Started/quickstart|Quickstart Guide]] to build your first pipeline in under 5 minutes.
+> Start with the [[Getting Started/Quickstart|Quickstart Guide]] to build your first pipeline in under 5 minutes.
 
 ---
 
@@ -17,8 +17,8 @@ No prior experience with data pipeline tools is required, but you'll get the mos
 
 - **Command line** — installing packages, running commands
 - **YAML** — Acme pipelines are defined in YAML config files
-- **Python basics** — needed for writing [[guides/custom-transforms|custom transforms]] (optional)
-- **SQL or a database** — helpful for the [[guides/connecting-databases|database guides]] (optional)
+- **Python basics** — needed for writing [[Guides/Writing Custom Transforms|custom transforms]] (optional)
+- **SQL or a database** — helpful for the [[Guides/Connecting Databases|database guides]] (optional)
 
 ---
 
@@ -29,12 +29,12 @@ The docs are organized into five sections. Browse by topic or follow the recomme
 | Section                                     | Description                                                            |
 | ------------------------------------------- | ---------------------------------------------------------------------- |
 | [[Getting Started/README\|Getting Started]] | Install Acme and build your first pipeline                             |
-| [[concepts/README\|Core Concepts]]          | Understand pipelines, connectors, transforms, and architecture         |
-| [[configuration/README\|Configuration]]     | Config files, environment variables, and all available settings        |
-| [[guides/README\|Guides]]                   | Step-by-step tutorials for databases, deployment, monitoring, and more |
+| [[Core Concepts/README\|Core Concepts]]     | Understand pipelines, connectors, transforms, and architecture         |
+| [[Configuration/README\|Configuration]]     | Config files, environment variables, and all available settings        |
+| [[Guides/README\|Guides]]                   | Step-by-step tutorials for databases, deployment, monitoring, and more |
 | [[API Reference/README\|API Reference]]     | Full REST API documentation and SDK reference                          |
 
-**Not sure where to start?** Follow [[Getting Started/quickstart|Quickstart]] to build your first pipeline in 5 minutes, then read [[concepts/architecture|Architecture]] to understand how everything fits together.
+**Not sure where to start?** Follow [[Getting Started/Quickstart|Quickstart]] to build your first pipeline in 5 minutes, then read [[Core Concepts/Architecture|Architecture]] to understand how everything fits together.
 
 ---
 

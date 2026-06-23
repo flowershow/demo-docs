@@ -155,10 +155,10 @@ acme status --streaming
 ```
 
 > [!tip]
-> Set up alerts for consumer lag using the [[guides/monitoring|Monitoring Guide]]. A growing lag usually indicates your pipeline can't keep up with the data rate.
+> Set up alerts for consumer lag using the [[Guides/Monitoring|Monitoring Guide]]. A growing lag usually indicates your pipeline can't keep up with the data rate.
 
 ## Related
 
-- [[concepts/connectors|Connectors]] — streaming connector reference
-- [[guides/monitoring|Monitoring]] — dashboards and alerts
-- [[guides/error-handling|Error Handling]] — handling failures in streaming pipelines
+- [[Core Concepts/Connectors|Connectors]] — streaming connector reference
+- [[Guides/Monitoring|Monitoring]] — dashboards and alerts
+- [[Guides/Error Handling|Error Handling]] — handling failures in streaming pipelines

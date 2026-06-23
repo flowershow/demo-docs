@@ -171,6 +171,6 @@ run = client.scheduler.trigger("user-analytics")
 
 ## Related
 
-- [[concepts/pipelines|Pipeline Concepts]] — pipeline scheduling configuration
-- [[API Reference/pipeline|Pipeline API]] — pipeline management
-- [[API Reference/events|Events API]] — subscribe to scheduler events
+- [[Core Concepts/Pipelines|Pipeline Concepts]] — pipeline scheduling configuration
+- [[API Reference/Pipeline API|Pipeline API]] — pipeline management
+- [[API Reference/Events API|Events API]] — subscribe to scheduler events

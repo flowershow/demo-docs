@@ -66,7 +66,7 @@ acme/
 4. Submit your PR with a clear description
 
 > [!tip]
-> See the [[Getting Started/project-structure|Project Structure]] page for a deeper dive into how the codebase is organized.
+> See the [[Getting Started/Project Structure|Project Structure]] page for a deeper dive into how the codebase is organized.
 
 ## Code of conduct
 

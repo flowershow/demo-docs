@@ -155,6 +155,6 @@ logging:
 
 ## Related
 
-- [[guides/deployment|Deployment]] — deploy with monitoring enabled
-- [[guides/error-handling|Error Handling]] — configure error notifications
-- [[API Reference/events|Events API]] — programmatic access to pipeline events
+- [[Guides/Deployment|Deployment]] — deploy with monitoring enabled
+- [[Guides/Error Handling|Error Handling]] — configure error notifications
+- [[API Reference/Events API|Events API]] — programmatic access to pipeline events

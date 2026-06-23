@@ -134,6 +134,6 @@ auth:
 
 ## Related
 
-- [[API Reference/client|Client API]] — making authenticated API calls
-- [[guides/deployment|Deployment]] — production security configuration
-- [[configuration/environment-variables|Environment Variables]] — storing secrets
+- [[API Reference/Client API|Client API]] — making authenticated API calls
+- [[Guides/Deployment|Deployment]] — production security configuration
+- [[Configuration/Environment Variables|Environment Variables]] — storing secrets

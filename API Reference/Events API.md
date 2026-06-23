@@ -156,6 +156,6 @@ GET /api/v1/events?since=2026-02-15T00:00:00Z&until=2026-02-16T00:00:00Z
 
 ## Related
 
-- [[guides/monitoring|Monitoring]] — using events for dashboards and alerts
-- [[guides/error-handling|Error Handling]] — subscribing to failure events
-- [[API Reference/pipeline|Pipeline API]] — pipeline run details
+- [[Guides/Monitoring|Monitoring]] — using events for dashboards and alerts
+- [[Guides/Error Handling|Error Handling]] — subscribing to failure events
+- [[API Reference/Pipeline API|Pipeline API]] — pipeline run details

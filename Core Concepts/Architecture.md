@@ -79,7 +79,7 @@ graph LR
     style F fill:#d1fae5
 ```
 
-See [[concepts/transforms|Transforms]] for available transform types.
+See [[Core Concepts/Transforms|Transforms]] for available transform types.
 
 ### 4. Validation
 
@@ -154,6 +154,6 @@ Pipeline state is stored locally in `.acme/runs/`. Each run creates a JSON metad
 
 ## Related pages
 
-- [[concepts/pipelines|Pipelines]] — pipeline configuration and lifecycle
-- [[concepts/connectors|Connectors]] — available source and destination connectors
-- [[concepts/transforms|Transforms]] — built-in and custom transform functions
+- [[Core Concepts/Pipelines|Pipelines]] — pipeline configuration and lifecycle
+- [[Core Concepts/Connectors|Connectors]] — available source and destination connectors
+- [[Core Concepts/Transforms|Transforms]] — built-in and custom transform functions

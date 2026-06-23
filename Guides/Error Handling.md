@@ -135,6 +135,6 @@ notifications:
 
 ## Related
 
-- [[guides/monitoring|Monitoring]] — set up dashboards for error rates
-- [[concepts/pipelines|Pipelines]] — pipeline error handling configuration
-- [[guides/testing-pipelines|Testing Pipelines]] — catch errors before they reach production
+- [[Guides/Monitoring|Monitoring]] — set up dashboards for error rates
+- [[Core Concepts/Pipelines|Pipelines]] — pipeline error handling configuration
+- [[Guides/Testing Pipelines|Testing Pipelines]] — catch errors before they reach production

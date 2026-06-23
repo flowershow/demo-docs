@@ -8,7 +8,7 @@ This guide walks you through building a real-world pipeline that reads from a Po
 
 > [!info] Prerequisites
 >
-> - Acme CLI installed ([[Getting Started/installation|Installation]])
+> - Acme CLI installed ([[Getting Started/Installation|Installation]])
 > - A PostgreSQL database with sample data
 > - A BigQuery project (or use the local JSON destination for testing)
 
@@ -136,7 +136,7 @@ Pipeline completed in 4.7s
 ```
 
 > [!success] Pipeline running!
-> Your data is now flowing from PostgreSQL to BigQuery every 6 hours. Check the [[guides/monitoring|Monitoring Guide]] to set up alerts.
+> Your data is now flowing from PostgreSQL to BigQuery every 6 hours. Check the [[Guides/Monitoring|Monitoring Guide]] to set up alerts.
 
 ## Troubleshooting
 
@@ -149,6 +149,6 @@ Pipeline completed in 4.7s
 
 ## Next steps
 
-- [[concepts/pipelines|Pipeline Concepts]] — understand scheduling, dependencies, and error handling
-- [[guides/connecting-databases|Connecting Databases]] — set up different database sources
-- [[guides/deployment|Deployment]] — run pipelines in production
+- [[Core Concepts/Pipelines|Pipeline Concepts]] — understand scheduling, dependencies, and error handling
+- [[Guides/Connecting Databases|Connecting Databases]] — set up different database sources
+- [[Guides/Deployment|Deployment]] — run pipelines in production

@@ -51,7 +51,7 @@ sources:
     connection: ${DATABASE_URL}
 ```
 
-See [[configuration/config-file|Configuration Reference]] for all available options.
+See [[Configuration/Configuration File Reference|Configuration Reference]] for all available options.
 
 ### `pipelines/` directory
 
@@ -72,7 +72,7 @@ Each pipeline file inherits the `defaults` from `acme.yml` but can override any 
 
 ### `transforms/` directory
 
-Custom Python functions for data transformations. See [[concepts/transforms|Transforms]] for details.
+Custom Python functions for data transformations. See [[Core Concepts/Transforms|Transforms]] for details.
 
 ```python
 # transforms/normalize.py
@@ -95,5 +95,5 @@ SLACK_WEBHOOK=https://hooks.slack.com/services/...
 
 ## Next steps
 
-- [[Getting Started/first-pipeline|Your First Pipeline]] — a hands-on tutorial
-- [[configuration/environment-variables|Environment Variables]] — managing secrets and configuration
+- [[Getting Started/Your First Pipeline|Your First Pipeline]] — a hands-on tutorial
+- [[Configuration/Environment Variables|Environment Variables]] — managing secrets and configuration
